@@ -48,3 +48,22 @@ A full-stack web application for managing employee records with features like se
 
 ## 📁 Project Structure
 
+```
+└── 📁backend
+    └── 📁src
+        └── 📁config
+            ├── db.js
+        └── 📁graphql
+            └── 📁resolvers
+                ├── employeeResolver.js
+            └── 📁schema
+                ├── employee.js
+        └── 📁utils
+            ├── seed.js
+        ├── index.js
+    ├── .env
+    ├── .gitignore
+    ├── package-lock.json
+    └── package.json
+```
+
