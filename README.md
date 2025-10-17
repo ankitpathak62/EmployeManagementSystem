@@ -7,16 +7,7 @@ A full-stack web application for managing employee records with features like se
 **Live App:** [https://employeemanagementsystem-frontend.netlify.app/](https://employeemanagementsystem-frontend.netlify.app/)  
  
 
----
-
-## 📸 Screenshots
-
-### Desktop View
-![Desktop View](https://via.placeholder.com/800x400?text=Desktop+View)
-
-### Mobile View
-![Mobile View](https://via.placeholder.com/400x800?text=Mobile+View)
-
+ 
 ---
 
 ## ✨ Features
