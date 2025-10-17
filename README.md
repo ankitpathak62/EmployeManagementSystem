@@ -216,8 +216,8 @@ Frontend will start at: `http://localhost:3000`
 **Ankit Pathak**
 
 - GitHub: [@ankitpathak62](https://github.com/ankitpathak62)
-- LinkedIn: [Ankit Pathak]([https://www.linkedin.com/in/ankitpathak62/])
-- Portfolio: [ankitpathak.dev]([https://ankitpathak.netlify.app/])
+- LinkedIn: [Ankit Pathak](https://www.linkedin.com/in/ankitpathak62/)
+- Portfolio: [ankitpathak.dev](https://ankitpathak.netlify.app/)
 
 ---
 
