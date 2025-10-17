@@ -4,8 +4,8 @@ A full-stack web application for managing employee records with features like se
 
 ## 🌐 Live Demo
 
-**Frontend:** [https://employeemanagementsystem-frontend.netlify.app/](https://employeemanagementsystem-frontend.netlify.app/)  
-**Backend API:** [https://employmanagementsystem-backend.onrender.com/graphql](https://employmanagementsystem-backend.onrender.com/graphql)
+**Live App:** [https://employeemanagementsystem-frontend.netlify.app/](https://employeemanagementsystem-frontend.netlify.app/)  
+ 
 
 ---
 
