@@ -221,8 +221,8 @@ This project is open source and available under the [MIT License](LICENSE).
 **Ankit Pathak**
 
 - GitHub: [@ankitpathak62](https://github.com/ankitpathak62)
-- LinkedIn: [Ankit Pathak]([https://linkedin.com/in/ankitpathak](https://www.linkedin.com/in/ankitpathak62/)
-- Portfolio: [ankitpathak.dev]([https://ankitpathak.dev](https://ankitpathak.netlify.app/)
+- LinkedIn: [Ankit Pathak]([https://linkedin.com/in/ankitpathak](https://www.linkedin.com/in/ankitpathak62/])
+- Portfolio: [ankitpathak.dev]([https://ankitpathak.dev](https://ankitpathak.netlify.app/])
 
 ---
 
